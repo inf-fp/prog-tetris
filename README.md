@@ -4,12 +4,9 @@
 
 # 1. Introducción
 
-- desarrollar videojuego para PC multiplaforma (Windows, MacOS y Linux)
-- finalidad: 
-  - entretenimiento (desde punto de vista usuario)
-  - aprendizaje (desde punto de vista alumno)
-- público objetivo: 
-  - hombres e mulleres de 30+
+El presente proyecto recoge los puntos esenciales para el desarrollo de una versión del clásico videojuego Tetris para PC, compatible con los sistemas operativos Windows, macOS y Linux. Este proyecto nace con una doble finalidad: por un lado, ofrecer al usuario final una experiencia de entretenimiento y, por otro, servir como ejercicio práctico de aprendizaje para el alumno, quien a lo largo del proceso adquirirá conocimientos y habilidades fundamentales en conceptos avanzados de Java mediante el desarrollo de un videojuego.
+
+El producto está orientado principalmente a un público adulto de 30 años en adelante, tanto hombres como mujeres, familiarizados con este tipo de juegos.
 
 
 # 2. Gestión del proyecto
