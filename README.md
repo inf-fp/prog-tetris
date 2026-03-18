@@ -28,9 +28,8 @@
       - Velocidad incemental. El aumento de nivel implica aumento de la velocidad de caída de las piezas, aumentando la dificultad del juego.
     - El juego termina cuando una pieza toca la parte superior del tablero.
   - **Piezas**
-    - Un total de 7 piezas (https://upload.wikimedia.org/wikipedia/commons/6/6b/Piezas_Tetris_99.png)
-    - Cada pieza tiene una forma diferente
-    - Cada pieza tiene un color diferente
+    - Un total de 7 piezas
+    - Cada pieza tiene un [color y forma diferente](https://upload.wikimedia.org/wikipedia/commons/6/6b/Piezas_Tetris_99.png)
   - **Controles** por teclado de piezas
     - Rotación de pieza
     - Desplazamiento de pieza horizontalmente (derecha-izquierda)
