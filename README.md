@@ -29,7 +29,7 @@
     - El juego termina cuando una pieza toca la parte superior del tablero.
   - **Piezas**
     - Un total de 7 piezas
-    - Cada pieza tiene un [color y forma diferente](https://upload.wikimedia.org/wikipedia/commons/6/6b/Piezas_Tetris_99.png)
+    - Cada pieza tiene un [color y forma diferente](./img/Piezas_Tetris_99.png)
   - **Controles** por teclado de piezas
     - Rotación de pieza
     - Desplazamiento de pieza horizontalmente (derecha-izquierda)
