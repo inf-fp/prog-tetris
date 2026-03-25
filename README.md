@@ -19,6 +19,7 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 ## Alcance
 - Funcionalidades **includas**:
   - Interfaz gráfica (una **única ventana** de juego).
+  - Juego para 1 jugador.
   - Único **modo de juego**: clásico.
     - Sistema de niveles: 
       - **Aumento de nivel** por alcanzar un valor determinado de puntos.
@@ -66,15 +67,16 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 - Funcionalidades **no incluidas**:
   - Pausar juego.
   - Histórico de puntuaciones.
-  - Modos de juego:
-    - Mapa abierto lateral: hai un hueco en los laterales izquierdo-derecho y, si se introduce una ficha por uno, sale por el opuesto otra ficha diferente.
-    - Cronómetro: empieza un temporizador con cuenta regresiva. Solo aumenta si se obtienen bonificaciones.
-    - Difícil: velocidad incrementada y con una fila roja en el medio que producirá una caída instanténea de la ficha.
   - Ninguna característica relacionada con multijugador.
   - Menú principal: logo, ajustes, jugar, nombre usuario, salir.
   - Ajustes: pantalla completa, modo oscuro, idioma.
 
 ## Requisitos funcionales
+
+- RF1. Los 7 tipos de fichas.
+- RF2. Movimiento lateral.
+- RF3. Caída acelarada.
+- RF4. Sistema de puntuación.
 
 ## Planificación temporal
 14 días (5 semanas)
@@ -93,7 +95,12 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 # 4. Propuestas de mejora
 - Animaciones:
   - Explosión cuando se completa una fila.
-
+- Modos de juego extra:
+    - Mapa abierto lateral: hai un hueco en los laterales izquierdo-derecho y, si se introduce una ficha por uno, sale por el opuesto otra ficha diferente.
+    - Cronómetro: empieza un temporizador con cuenta regresiva. Solo aumenta si se obtienen bonificaciones.
+    - Difícil: velocidad incrementada y con una fila roja en el medio que producirá una caída instanténea de la ficha.
+- Incluir menú principal: logo, ajustes, jugar, nombre usuario, salir.
+- Incluir menú de ajustes: pantalla completa, modo oscuro, idioma.
 
 ### NOTAS
 - cronómetro
