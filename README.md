@@ -46,9 +46,9 @@ El producto está orientado principalmente a un público adulto de 30 años en a
     - Multiplicador de puntos en base a (rachas):
       - ¿Cuántas líneas elimino a la vez? Puntuación por líneas eliminadas a la vez (máximo de 4):
         - 1 línea: 10 puntos.
-        - 2 líneas: 20 puntos.
-        - 3 líneas: 50 puntos.
-        - 4 líneas: 80 puntos.
+        - 2 líneas: 25 puntos.
+        - 3 líneas: 40 puntos.
+        - 4 líneas: 60 puntos.
       - ¿Cuántas veces seguidas elimino líneas?
         - 1ª vez: sin bonificación
         - 2ª vez: x1.2 sobre los puntos obtenidos por eliminar línea(s).
@@ -77,6 +77,9 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 - RF2. Movimiento lateral.
 - RF3. Caída acelarada.
 - RF4. Sistema de puntuación.
+- RFX. COMPLETAR
+- RFX. COMPLETAR
+- RFX. COMPLETAR
 
 ## Planificación temporal
 14 días (5 semanas)
@@ -88,8 +91,12 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 
 
 # 3. Desarrollo del proyecto
+
 ## Diseño
+(Mockups)
+
 ## Arquitectura
+(Arquitectura de software)
 
 
 # 4. Propuestas de mejora
@@ -102,6 +109,7 @@ El producto está orientado principalmente a un público adulto de 30 años en a
 - Incluir menú principal: logo, ajustes, jugar, nombre usuario, salir.
 - Incluir menú de ajustes: pantalla completa, modo oscuro, idioma.
 
+<!--
 ### NOTAS
 - cronómetro
   - bonus por racha
@@ -115,3 +123,4 @@ El producto está orientado principalmente a un público adulto de 30 años en a
   - pedir nombre
   - guardar estadísticas y puntuación
   - pueden jugar jugadores diferentes?
+-->
